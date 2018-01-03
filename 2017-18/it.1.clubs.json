@@ -2,104 +2,429 @@
   "name": "Serie A 2017/18",
   "clubs": [
     {
-      "key": "milan",
+      "key": "AC Milan - (Fondazione: 16/dic/1899)",
       "name": "Milan",
-      "code": "MIL"
+      "code": "MIL",
+      "place": 11,
+      "points": 25,
+      "pg":19,
+      "v":7,
+      "p":4,
+      "s":8,
+      "gf":24,
+      "gs":27,
+      "dr":-3,
+      "coach": "Gennaro Gattuso",
+      "stadium": "Giuseppe Meazza - San Siro (Milano)",
+      "player": {
+            "name": "Suso",
+            "number": 8,
+            "goal": 5
+      } 
     },
     {
-      "key": "inter",
+      "key": "FC Internazionale - (Fondazione: 09/mar/1908)",
       "name": "Inter",
-      "code": "INT"
+      "code": "INT",
+      "place": 3,
+      "points": 41,
+       "pg":19,
+      "v":12,
+      "p":5,
+      "s":2,
+      "gf":34,
+      "gs":14,
+      "dr":20,
+       "coach": "Luciano Spalletti",
+      "stadium": "Giuseppe Meazza - San Siro (Milano)",
+      "player": 
+         {
+            "name": "Mauro Icardi",
+            "number": 9,
+            "goal": 17
+         }
     },
     {
-      "key": "lazio",
+      "key": "SS Lazio - (Fondazione: 09/gen/1900)",
       "name": "Lazio",
-      "code": "LAZ"
+      "code": "LAZ",
+      "place": 5,
+      "points": 37,
+      "pg":18,
+      "v":11,
+      "p":4,
+      "s":3,
+      "gf":43,
+      "gs":22,
+      "dr":21,
+       "coach": "Simone Inzaghi",
+      "stadium": "Stadio Olimpico (Roma)",
+      "player": 
+         {
+            "name": "Ciro Immobile",
+            "number": 17,
+            "goal": 16
+         } 
     },
     {
-      "key": "roma",
+      "key": "AS Roma - (Fondazione: 07/giu/1927)",
       "name": "Roma",
-      "code": "ROM"
+      "code": "ROM",
+      "place": 4,
+      "points": 39,
+      "pg":18,
+      "v":12,
+      "p":3,
+      "s":3,
+      "gf":29,
+      "gs":12,
+      "dr":17,
+       "coach": "Eusebio Di Francesco",
+      "stadium": "Stadio Olimpico (Roma)",
+      "player": 
+         {
+            "name": "Edin Dzeko",
+            "number": 9,
+            "goal": 8
+         } 
     },
     {
-      "key": "genoa",
+      "key": "Genoa CFC - (Fondazione: 07/set/1893)",
       "name": "Genoa",
-      "code": "GEN"
+      "code": "GEN",
+      "place": 16,
+      "points": 18,
+      "pg":18,
+      "v":4,
+      "p":6,
+      "s":9,
+      "gf":15,
+      "gs":22,
+      "dr":-7,
+      "coach": "Davide Ballardini",
+      "stadium": "Luigi Ferraris (Genova)",
+      "player": 
+         {
+            "name": "Adel Taarabt",
+            "number": 11,
+            "goal": 2
+         } 
     },
     {
-      "key": "sampdoria",
+      "key": "UC Sampdoria - (Fondazione: 01/ago/1946)",
       "name": "Sampdoria",
-      "code": "SAM"
+      "code": "SAM",
+      "place": 6,
+      "points": 30,
+      "pg":18,
+      "v":9,
+      "p":3,
+      "s":6,
+      "gf":34,
+      "gs":26,
+      "dr":8,
+      "coach": "Marco Giampaolo",
+      "stadium": "Luigi Ferraris (Genova)",
+      "player": 
+         {
+            "name": "Fabio Quagliarella",
+            "number": 27,
+            "goal": 12
+         } 
     },
     {
-      "key": "juventus",
+      "key": "Juventus FC - (Fondazione: 01/nov/1897)",
       "name": "Juventus",
-      "code": "JUV"
+      "code": "JUV",
+      "place": 2,
+      "points": 47,
+       "v":15,
+      "p":2,
+      "s":2,
+      "gf":48,
+      "gs":15,
+      "dr":33,
+      "coach": "Massimiliano Allegri",
+      "stadium": "Allianz Stadium (Torino)",
+      "player": 
+         {
+            "name": "Paulo Dybala",
+            "number": 10,
+            "goal": 14
+         } 
     },
     {
-      "key": "torino",
+      "key": "Torino FC - (Fondazione: 	03/dic/1906)",
       "name": "Torino",
-      "code": "TOR"
+      "code": "TOR",
+      "place": 10,
+      "points": 25,
+      "v":5,
+      "p":10,
+      "s":4,
+      "gf":25,
+      "gs":27,
+      "dr":-2,
+      "coach": "Siniša Mihajlović",
+      "stadium": "Stadio Grande Torino (Torino)",
+      "player": 
+         {
+            "name": "Iago Falque",
+            "number": 14,
+            "goal": 7
+         } 
     },
     {
-      "key": "napoli",
+      "key": "SSC Napoli - (Fondazione: 01/ago/1926)",
       "name": "Napoli",
-      "code": "NAP"
+      "code": "NAP",
+      "place": 1,
+      "points": 48,
+      "v":19,
+      "p":15,
+      "s":3,
+      "gf":42,
+      "gs":13,
+      "dr":29,
+      "coach": "Maurizio Sarri",
+      "stadium": "San Paolo (Napoli)",
+      "player": 
+         {
+            "name": "Dries Mertens",
+            "number": 14,
+            "goal": 10
+         } 
     },
     {
-      "key": "atalanta",
+      "key": "Atalanta Bergamasca Calcio",
       "name": "Atalanta",
-      "code": "ATA"
+      "code": "ATA",
+      "place": 9,
+      "points": 27,
+      "v":7,
+      "p":6,
+      "s":6,
+      "gf":29,
+      "gs":25,
+      "dr":4,
+      "coach": "Giampiero Gasperini",
+      "stadium": "Atleti Azzurri d'Italia (Bergamo)",
+      "player": 
+         {
+            "name": "Josip Ilicic",
+            "number": 72,
+            "goal": 7
+         } 
     },
     {
-      "key": "chievoverona",
+      "key": "AC Chievo Verona - (Fondazione: 30/nov/1928)",
       "name": "Chievo",
-      "code": "CHI"
+      "code": "CHI",
+      "place": 13,
+      "points": 21,
+       "v":5,
+      "p":6,
+      "s":8,
+      "gf":19,
+      "gs":31,
+      "dr":-12,
+      "coach": "Rolando Maran",
+      "stadium": "Marcantonio Bentegodi (Verona)",
+      "player": 
+         {
+            "name": "Roberto Inglese",
+            "number": 45,
+            "goal": 7
+         } 
     },
     {
-      "key": "fiorentina",
+      "key": "ACF Fiorentina - (Fondazione: 26/ago/1926)",
       "name": "Fiorentina",
-      "code": "FIO"
+      "code": "FIO",
+      "place": 8,
+      "points": 27,
+      "v":7,
+      "p":6,
+      "s":6,
+      "gf":28,
+      "gs":20,
+      "dr":8,
+      "coach": "Stefano Pioli",
+      "stadium": "Artemio Franchi (Firenze)",
+      "player": 
+         {
+            "name": "Giovanni Simeone",
+            "number": 9,
+            "goal": 6
+         } 
     },
     {
-      "key": "udinese",
+      "key": "Udinese Calcio - (Fondazione: 05/lug/1896)",
       "name": "Udinese",
-      "code": "UDI"
+      "code": "UDI",
+      "place": 7,
+      "points": 27,
+      "v":9,
+      "p":0,
+      "s":9,
+      "gf":32,
+      "gs":26,
+      "dr":6,
+      "coach": "Massimo Oddo",
+      "stadium": "Dacia Arena (Udine)",
+      "player": 
+         {
+            "name": "Kevin Lasagna",
+            "number": 15,
+            "goal": 7
+         } 
     },
     {
-      "key": "sassuolo",
+      "key": "US Sassuolo - (Fondazione: 17/lug/1920)",
       "name": "Sassuolo",
-      "code": "SAS"
+      "code": "SAS",
+      "place": 14,
+      "points": 21,
+       "v":6,
+      "p":3,
+      "s":10,
+      "gf":13,
+      "gs":29,
+      "dr":-16,
+      "coach": "Giuseppe Iachini",
+      "stadium": "Mapei Stadium (Sassuolo)",
+      "player": 
+         {
+            "name": "Matteo Politano",
+            "number": 16,
+            "goal": 3
+         } 
     },
     {
-      "key": "bologna",
+      "key": "Bologna FC - (Fondazione: 03/ott/1909)",
       "name": "Bologna",
-      "code": "BOL"
+      "code": "BOL",
+      "place": 12,
+      "points": 24,
+      "v":7,
+      "p":3,
+      "s":9,
+      "gf":23,
+      "gs":27,
+      "dr":-4,
+      "coach": "Roberto Donadoni",
+      "stadium": "Stadio Renato Dall'Ara (Bologna)",
+      "player": 
+         {
+            "name": "Simone Verdi",
+            "number": 9,
+            "goal": 6
+         } 
     },
     {
-      "key": "cagliari",
+      "key": "Cagliari Calcio - (Fondazione: 20/ago/1920)",
       "name": "Cagliari",
-      "code": "CAG"
+      "code": "CAG",
+      "place": 15,
+      "points": 20,
+       "v":6,
+      "p":2,
+      "s":11,
+      "gf":18,
+      "gs":30,
+      "dr":-12,
+      "coach": "Diego Lopez",
+      "stadium": "Sardegna Arena (Cagliari)",
+      "player": 
+         {
+            "name": "Joao Pedro",
+            "number": 10,
+            "goal": 5
+         } 
     },
     {
-      "key": "crotone",
+      "key": "FC Crotone - (Fondazione:	30/nov/1922) ",
       "name": "Crotone",
-      "code": "CRO"
+      "code": "CRO",
+      "place": 18,
+      "points": 15,
+       "v":4,
+      "p":3,
+      "s":12,
+      "gf":13,
+      "gs":37,
+      "dr":-24,
+      "coach": "Walter Zenga",
+      "stadium": "Ezio Scida (Crotone)",
+      "player": 
+         {
+            "name": "Ante Budimir",
+            "number": 17,
+            "goal": 4
+         } 
     },
     {
-      "key": "hellasverona",
+      "key": "Hellas Verona - (Fondazione: 30/set/1903)",
       "name": "Verona",
-      "code": "HEL"
+      "code": "HEL",
+      "place": 19,
+      "points": 13,
+       "v":3,
+      "p":4,
+      "s":12,
+      "gf":18,
+      "gs":39,
+      "dr":-21,
+      "coach": "Fabio Pecchia",
+      "stadium": "Marcantonio Bentegodi (Verona)",
+      "player": 
+         {
+            "name": "Giampaolo Pazzini",
+            "number": 11,
+            "goal": 4
+         } 
     },
     {
-      "key": "spal",
+      "key": "SPAL - (Fondazione: 30/nov/1906)",
       "name": "SPAL",
-      "code": "SPA"
+      "code": "SPA",
+      "place": 17,
+      "points": 15,
+      "v":3,
+      "p":6,
+      "s":10,
+      "gf":19,
+      "gs":33,
+      "dr":-14,
+      "coach": "Leonardo Semplici",
+      "stadium": "Paolo Mazza (Ferrara)",
+      "player": 
+         {
+            "name": "Mirco Anteucci",
+            "number": 7,
+            "goal": 4
+         } 
     },
     {
-      "key": "benevento",
+      "key": "Benevento Calcio - (Fondazione: 30/nov/1928)",
       "name": "Benevento",
-      "code": "BEN"
+      "code": "BEN",
+      "place": 20,
+      "points": 4,
+      "v":1,
+      "p":1,
+      "s":17,
+      "gf":10,
+      "gs":41,
+      "dr":-31,
+      "coach": "Roberto De Zerbi",
+      "stadium": "Ciro Vigorito (Benevento)",
+      "player": 
+         {
+            "name": "Amato Ciciretti",
+            "number": 10,
+            "goal": 2
+         } 
     }
   ]
 }
