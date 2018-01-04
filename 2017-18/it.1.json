@@ -6,10 +6,14 @@
       "matches": [
         {
           "date": "2017-08-19",
+          "referee": "Fabio Maresca",
           "team1": {
             "key": "juventus",
             "name": "Juventus",
-            "code": "JUV"
+            "code": "JUV",
+            "scorers": {
+             " 12' Mandzukic\n45' + 1' Dybala\n66' Higuain ",
+            }
           },
           "team2": {
             "key": "cagliari",
