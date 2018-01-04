@@ -11,12 +11,13 @@
             "key": "juventus",
             "name": "Juventus",
             "code": "JUV",
-            "scorers": " 12' Mandzukic\n45' + 1' Dybala\n66' Higuain "
+            "scorers": "12' Mandzukic\n45' + 1' Dybala\n66' Higuain"
           },
           "team2": {
             "key": "cagliari",
             "name": "Cagliari",
-            "code": "CAG"
+            "code": "CAG",
+            "scorers": ""
           },
           "score1": 3,
           "score2": 0
@@ -26,12 +27,14 @@
           "team1": {
             "key": "hellasverona",
             "name": "Verona",
-            "code": "HEL"
+            "code": "HEL",
+            "scorers": "83' Pazzini (R)"
           },
           "team2": {
             "key": "napoli",
             "name": "Napoli",
-            "code": "NAP"
+            "code": "NAP",
+            "scorers": "32' Souprayen (A)\n39' Milik\n62' Ghoulam"
           },
           "score1": 1,
           "score2": 3
@@ -41,12 +44,14 @@
           "team1": {
             "key": "bologna",
             "name": "Bologna",
-            "code": "BOL"
+            "code": "BOL",
+            "scorers": "27' Di Francesco"
           },
           "team2": {
             "key": "torino",
             "name": "Torino",
-            "code": "TOR"
+            "code": "TOR",
+            "scorers": "33' Ljajic"
           },
           "score1": 1,
           "score2": 1
@@ -56,12 +61,14 @@
           "team1": {
             "key": "inter",
             "name": "Inter",
-            "code": "INT"
+            "code": "INT",
+            "scorers": "6' Icardi (R)\n15' Icardi\n79' Perisic"
           },
           "team2": {
             "key": "fiorentina",
             "name": "Fiorentina",
-            "code": "FIO"
+            "code": "FIO",
+            "scorers": ""
           },
           "score1": 3,
           "score2": 0
@@ -71,12 +78,14 @@
           "team1": {
             "key": "lazio",
             "name": "Lazio",
-            "code": "LAZ"
+            "code": "LAZ",
+            "scorers": ""
           },
           "team2": {
             "key": "spal",
             "name": "SPAL",
-            "code": "SPA"
+            "code": "SPA",
+            "scorers": ""
           },
           "score1": 0,
           "score2": 0
@@ -86,12 +95,14 @@
           "team1": {
             "key": "sampdoria",
             "name": "Sampdoria",
-            "code": "SAM"
+            "code": "SAM",
+            "scorers": "38' Quagliarella\n54' Quagliarella"
           },
           "team2": {
             "key": "benevento",
             "name": "Benevento",
-            "code": "BEN"
+            "code": "BEN",
+            "scorers": "15' Ciciretti"
           },
           "score1": 2,
           "score2": 1
@@ -101,12 +112,14 @@
           "team1": {
             "key": "sassuolo",
             "name": "Sassuolo",
-            "code": "SAS"
+            "code": "SAS",
+            "scorers": ""
           },
           "team2": {
             "key": "genoa",
             "name": "Genoa",
-            "code": "GEN"
+            "code": "GEN",
+            "scorers": ""
           },
           "score1": 0,
           "score2": 0
@@ -116,12 +129,14 @@
           "team1": {
             "key": "udinese",
             "name": "Udinese",
-            "code": "UDI"
+            "code": "UDI",
+            "scorers": "37' Thereau"
           },
           "team2": {
             "key": "chievoverona",
             "name": "Chievo",
-            "code": "CHI"
+            "code": "CHI",
+            "scorers": "15' Inglese\n54' Birsa"
           },
           "score1": 1,
           "score2": 2
@@ -131,12 +146,14 @@
           "team1": {
             "key": "atalanta",
             "name": "Atalanta",
-            "code": "ATA"
+            "code": "ATA",
+            "scorers": ""
           },
           "team2": {
             "key": "roma",
             "name": "Roma",
-            "code": "ROM"
+            "code": "ROM",
+            "scorers": "31' Kolarov"
           },
           "score1": 0,
           "score2": 1
@@ -146,15 +163,17 @@
           "team1": {
             "key": "crotone",
             "name": "Crotone",
-            "code": "CRO"
+            "code": "CRO",
+            "scorers": ""
           },
           "team2": {
             "key": "milan",
             "name": "Milan",
-            "code": "MIL"
+            "code": "MIL",
+            "scorers": "6' Kessie (R)\n18' Cutrone\n23' Suso"
           },
           "score1": 0,
-          "score2": 3 
+          "score2": 3
         }
       ]
     },
