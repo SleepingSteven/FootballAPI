@@ -3,7 +3,8 @@
   "code": "IT",
   "clubs": [
     {
-      "key": "AC Milan - (Fondazione: 16/dic/1899)",
+      "key": "AC Milan",
+      "founded": "(Fondazione: 16/dic/1899)",
       "name": "Milan",
       "code": "MIL",
       "place": 11,
@@ -24,7 +25,8 @@
       } 
     },
     {
-      "key": "FC Internazionale - (Fondazione: 09/mar/1908)",
+      "key": "FC Internazionale",
+      "founded": "(Fondazione: 09/mar/1908)",
       "name": "Inter",
       "code": "INT",
       "place": 3,
@@ -46,7 +48,8 @@
          }
     },
     {
-      "key": "SS Lazio - (Fondazione: 09/gen/1900)",
+      "key": "SS Lazio",
+      "founded": "(Fondazione: 09/gen/1900)",
       "name": "Lazio",
       "code": "LAZ",
       "place": 5,
@@ -68,7 +71,8 @@
          } 
     },
     {
-      "key": "AS Roma - (Fondazione: 07/giu/1927)",
+      "key": "AS Roma",
+      "founded": "(Fondazione: 07/giu/1927)",
       "name": "Roma",
       "code": "ROM",
       "place": 4,
@@ -90,7 +94,8 @@
          } 
     },
     {
-      "key": "Genoa CFC - (Fondazione: 07/set/1893)",
+      "key": "Genoa CFC",
+      "founded": "(Fondazione: 07/set/1893)",
       "name": "Genoa",
       "code": "GEN",
       "place": 16,
@@ -112,7 +117,8 @@
          } 
     },
     {
-      "key": "UC Sampdoria - (Fondazione: 01/ago/1946)",
+      "key": "UC Sampdoria",
+      "founded": "(Fondazione: 01/ago/1946)",
       "name": "Sampdoria",
       "code": "SAM",
       "place": 6,
@@ -134,7 +140,8 @@
          } 
     },
     {
-      "key": "Juventus FC - (Fondazione: 01/nov/1897)",
+      "key": "Juventus FC",
+      "founded": "(Fondazione: 01/nov/1897)",
       "name": "Juventus",
       "code": "JUV",
       "place": 2,
@@ -155,7 +162,8 @@
          } 
     },
     {
-      "key": "Torino FC - (Fondazione: 	03/dic/1906)",
+      "key": "Torino FC",
+      "founded": "(Fondazione: 03/dic/1906)",
       "name": "Torino",
       "code": "TOR",
       "place": 10,
@@ -176,7 +184,8 @@
          } 
     },
     {
-      "key": "SSC Napoli - (Fondazione: 01/ago/1926)",
+      "key": "SSC Napoli",
+      "founded": "(Fondazione: 01/ago/1926)",
       "name": "Napoli",
       "code": "NAP",
       "place": 1,
@@ -198,6 +207,7 @@
     },
     {
       "key": "Atalanta Bergamasca Calcio",
+      "founded": "(Fondazione: 17/ott/1907)",
       "name": "Atalanta",
       "code": "ATA",
       "place": 9,
@@ -218,7 +228,8 @@
          } 
     },
     {
-      "key": "AC Chievo Verona - (Fondazione: 30/nov/1928)",
+      "key": "AC Chievo Verona",
+      "founded": "(Fondazione: 30/nov/1928)",
       "name": "Chievo",
       "code": "CHI",
       "place": 13,
@@ -239,7 +250,8 @@
          } 
     },
     {
-      "key": "ACF Fiorentina - (Fondazione: 26/ago/1926)",
+      "key": "ACF Fiorentina",
+      "founded": "(Fondazione: 26/ago/1926)",
       "name": "Fiorentina",
       "code": "FIO",
       "place": 8,
@@ -260,7 +272,8 @@
          } 
     },
     {
-      "key": "Udinese Calcio - (Fondazione: 05/lug/1896)",
+      "key": "Udinese Calcio",
+      "founded": "(Fondazione: 05/lug/1896)",
       "name": "Udinese",
       "code": "UDI",
       "place": 7,
@@ -281,7 +294,8 @@
          } 
     },
     {
-      "key": "US Sassuolo - (Fondazione: 17/lug/1920)",
+      "key": "US Sassuolo",
+      "founded": "(Fondazione: 17/lug/1920)",
       "name": "Sassuolo",
       "code": "SAS",
       "place": 14,
@@ -302,7 +316,8 @@
          } 
     },
     {
-      "key": "Bologna FC - (Fondazione: 03/ott/1909)",
+      "key": "Bologna FC",
+      "founded": "(Fondazione: 03/ott/1909)",
       "name": "Bologna",
       "code": "BOL",
       "place": 12,
@@ -323,7 +338,8 @@
          } 
     },
     {
-      "key": "Cagliari Calcio - (Fondazione: 20/ago/1920)",
+      "key": "Cagliari Calcio",
+      "founded": "(Fondazione: 20/ago/1920)",
       "name": "Cagliari",
       "code": "CAG",
       "place": 15,
@@ -344,7 +360,8 @@
          } 
     },
     {
-      "key": "FC Crotone - (Fondazione:	30/nov/1922) ",
+      "key": "FC Crotone",
+      "founded": "(Fondazione: 30/nov/1922)",
       "name": "Crotone",
       "code": "CRO",
       "place": 18,
@@ -365,7 +382,8 @@
          } 
     },
     {
-      "key": "Hellas Verona - (Fondazione: 30/set/1903)",
+      "key": "Hellas Verona",
+      "founded": "(Fondazione: 30/set/1903)",
       "name": "Verona",
       "code": "HEL",
       "place": 19,
@@ -386,7 +404,8 @@
          } 
     },
     {
-      "key": "SPAL - (Fondazione: 30/nov/1906)",
+      "key": "SPAL",
+      "founded": "(Fondazione: 30/nov/1906)",
       "name": "SPAL",
       "code": "SPA",
       "place": 17,
@@ -407,7 +426,8 @@
          } 
     },
     {
-      "key": "Benevento Calcio - (Fondazione: 30/nov/1928)",
+      "key": "Benevento Calcio",
+      "founded": "(Fondazione: 30/nov/1928)",
       "name": "Benevento",
       "code": "BEN",
       "place": 20,
