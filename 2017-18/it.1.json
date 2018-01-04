@@ -11,9 +11,7 @@
             "key": "juventus",
             "name": "Juventus",
             "code": "JUV",
-            "scorers": {
-             " 12' Mandzukic\n45' + 1' Dybala\n66' Higuain "
-            }
+            "scorers": " 12' Mandzukic\n45' + 1' Dybala\n66' Higuain "
           },
           "team2": {
             "key": "cagliari",
