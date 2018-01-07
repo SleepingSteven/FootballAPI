@@ -29,13 +29,14 @@
             "key": "hellasverona",
             "name": "Verona",
             "code": "HEL",
-            "scorers": "83' Pazzini (R)"
+            "scorers": "<html>83' Pazzini (R)</html>"
           },
           "team2": {
             "key": "napoli",
             "name": "Napoli",
             "code": "NAP",
-            "scorers": "32' Souprayen (A)\n39' Milik\n62' Ghoulam"
+            "scorers": "<html>32' Souprayen (A)<br/>39' Milik<br/>62' Ghoulam</html>"
+            
           },
           "score1": 1,
           "score2": 3
@@ -47,13 +48,15 @@
             "key": "bologna",
             "name": "Bologna",
             "code": "BOL",
-            "scorers": "27' Di Francesco"
+            "scorers": "<html>27' Di Francesco</html>"
+            
           },
           "team2": {
             "key": "torino",
             "name": "Torino",
             "code": "TOR",
-            "scorers": "33' Ljajic"
+            "scorers": "<html>33' Ljajic</html>"
+            
           },
           "score1": 1,
           "score2": 1
@@ -65,7 +68,8 @@
             "key": "inter",
             "name": "Inter",
             "code": "INT",
-            "scorers": "6' Icardi (R)\n15' Icardi\n79' Perisic"
+            "scorers": "<html>6' Icardi (R)<br/>15' Icardi<br/>79' Perisic</html>"
+            
           },
           "team2": {
             "key": "fiorentina",
@@ -101,13 +105,15 @@
             "key": "sampdoria",
             "name": "Sampdoria",
             "code": "SAM",
-            "scorers": "38' Quagliarella\n54' Quagliarella"
+            "scorers": "<html>38' Quagliarella<br/>54' Quagliarella</html>"
+            
           },
           "team2": {
             "key": "benevento",
             "name": "Benevento",
             "code": "BEN",
-            "scorers": "15' Ciciretti"
+            "scorers": "<html>15' Ciciretti</html>"
+            
           },
           "score1": 2,
           "score2": 1
@@ -143,7 +149,8 @@
             "key": "chievoverona",
             "name": "Chievo",
             "code": "CHI",
-            "scorers": "15' Inglese\n54' Birsa"
+            "scorers": "<html>15' Inglese<br/>54' Birsa</html>"
+            
           },
           "score1": 1,
           "score2": 2
@@ -179,7 +186,9 @@
             "key": "milan",
             "name": "Milan",
             "code": "MIL",
-            "scorers": "6' Kessie (R)\n18' Cutrone\n23' Suso"
+            
+            "scorers": "<html>6' Kessie (R)<br/>18' Cutrone<br/>23' Suso</html>"
+            
           },
           "score1": 0,
           "score2": 3
@@ -191,150 +200,180 @@
       "matches": [
         {
           "date": "2017-08-26",
+          "referee": "LUCA BANTI",
           "team1": {
             "key": "genoa",
             "name": "Genoa",
-            "code": "GEN"
+            "code": "GEN",
+            "scorers": "<html>1' Pjanic (A)<br/>7' Galabinov (R)</html>"
           },
           "team2": {
             "key": "juventus",
             "name": "Juventus",
-            "code": "JUV"
+            "code": "JUV",
+            "scorers": "<html>14' Dybala<br/>45' + 4' Dybala (R)<br/>62' Cuadrado<br/>90' + 2' Dybala</html>"
           },
           "score1": 2,
           "score2": 4
         },
         {
           "date": "2017-08-26",
+          "referee": "MASSIMILIANO IRRATI",
           "team1": {
             "key": "roma",
             "name": "Roma",
-            "code": "ROM"
+            "code": "ROM",
+            "scorers": "<html>15' Dzeko</html>"
           },
           "team2": {
             "key": "inter",
             "name": "Inter",
-            "code": "INT"
+            "code": "INT",
+            "scorers": "<html>67' Icardi<br/>77' Icardi<br/>87' Vecino</html>"
           },
           "score1": 1,
           "score2": 3
         },
         {
           "date": "2017-08-27",
+          "referee": "PAOLO SILVIO MAZZOLENI",
           "team1": {
             "key": "torino",
             "name": "Torino",
-            "code": "TOR"
+            "code": "TOR",
+            "scorers": "<html>44' Belotti<br/>84' Ljajic<br/>88' Obi</html>"
           },
           "team2": {
             "key": "sassuolo",
             "name": "Sassuolo",
-            "code": "SAS"
+            "code": "SAS",
+            "scorers": ""
           },
           "score1": 3,
           "score2": 0
         },
         {
           "date": "2017-08-27",
+          "referee": "GIANPAOLO CALVARESE",
           "team1": {
             "key": "benevento",
             "name": "Benevento",
-            "code": "BEN"
+            "code": "BEN",
+            "scorers": ""
           },
           "team2": {
             "key": "bologna",
             "name": "Bologna",
-            "code": "BOL"
+            "code": "BOL",
+            "scorers": "<html>55' Donsah</html>"
           },
           "score1": 0,
           "score2": 1
         },
         {
           "date": "2017-08-27",
+          "referee": "GIANLUCA MANGANIELLO",
           "team1": {
             "key": "chievoverona",
             "name": "Chievo",
-            "code": "CHI"
+            "code": "CHI",
+            "scorers": "<html>34' Pucciarelli</html>"
           },
           "team2": {
             "key": "lazio",
             "name": "Lazio",
-            "code": "LAZ"
+            "code": "LAZ",
+            "scorers": "<html>11' Immobile<br/>89' Milinkovic-Savic</html>"
           },
           "score1": 1,
           "score2": 2
         },
         {
           "date": "2017-08-27",
+          "referee": "MARCO GUIDA",
           "team1": {
             "key": "crotone",
             "name": "Crotone",
-            "code": "CRO"
+            "code": "CRO",
+            "scorers": ""
           },
           "team2": {
             "key": "hellasverona",
             "name": "Verona",
-            "code": "HEL"
+            "code": "HEL",
+            "scorers": ""
           },
           "score1": 0,
           "score2": 0
         },
         {
           "date": "2017-08-27",
+          "referee": "DANIELE DOVERI",
           "team1": {
             "key": "fiorentina",
             "name": "Fiorentina",
-            "code": "FIO"
+            "code": "FIO",
+            "scorers": "<html>50' Badelj</html>"
           },
           "team2": {
             "key": "sampdoria",
             "name": "Sampdoria",
-            "code": "SAM"
+            "code": "SAM",
+            "scorers": "<html>32' Caprari<br/>35' Quagliarella (R) </html>"
           },
           "score1": 1,
           "score2": 2
         },
         {
           "date": "2017-08-27",
+          "referee": "LUCA PAIRETTO",
           "team1": {
             "key": "milan",
             "name": "Milan",
-            "code": "MIL"
+            "code": "MIL",
+            "scorers": "<html>10' Cutrone<br/>70' Suso</html>"
           },
           "team2": {
             "key": "cagliari",
             "name": "Cagliari",
-            "code": "CAG"
+            "code": "CAG",
+            "scorers": "<html>56' Joao Pedro</html>"
           },
           "score1": 2,
           "score2": 1
         },
         {
           "date": "2017-08-27",
+          "referee": "MARCO DI BELLO",
           "team1": {
             "key": "napoli",
             "name": "Napoli",
-            "code": "NAP"
+            "code": "NAP",
+            "scorers": "<html>56' Zielinski<br/>61' Mertens<br/>87' Rog</html>"
           },
           "team2": {
             "key": "atalanta",
             "name": "Atalanta",
-            "code": "ATA"
+            "code": "ATA",
+            "scorers": "<html>15' Cristante</html>"
           },
           "score1": 3,
           "score2": 1
         },
         {
           "date": "2017-08-27",
+          "referee": "PAOLO VALERI",
           "team1": {
             "key": "spal",
             "name": "SPAL",
-            "code": "SPA"
+            "code": "SPA",
+            "scorers": "<html>25' Borriello<br/>53' Lazzari<br/>90' + 4' Rizzo</html>"
           },
           "team2": {
             "key": "udinese",
             "name": "Udinese",
-            "code": "UDI"
+            "code": "UDI",
+            "scorers": "<html>72' Nuytinck<br/>87' Thereau (R)</html>"
           },
           "score1": 3,
           "score2": 2
