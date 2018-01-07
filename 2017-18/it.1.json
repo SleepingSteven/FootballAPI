@@ -6,7 +6,7 @@
       "matches": [
         {
           "date": "2017-08-19",
-          "referee": "Fabio Maresca",
+          "referee": "FABIO MARESCA",
           "team1": {
             "key": "juventus",
             "name": "Juventus",
@@ -24,6 +24,7 @@
         },
         {
           "date": "2017-08-19",
+          "referee": "MICHAEL FABBRI",
           "team1": {
             "key": "hellasverona",
             "name": "Verona",
@@ -41,6 +42,7 @@
         },
         {
           "date": "2017-08-20",
+          "referee": "DAVIDE MASSA",
           "team1": {
             "key": "bologna",
             "name": "Bologna",
@@ -58,6 +60,7 @@
         },
         {
           "date": "2017-08-20",
+          "referee": "PAOLO TAGLIAVENTO",
           "team1": {
             "key": "inter",
             "name": "Inter",
@@ -75,6 +78,7 @@
         },
         {
           "date": "2017-08-20",
+          "referee": "ROSARIO ABISSO",
           "team1": {
             "key": "lazio",
             "name": "Lazio",
@@ -92,6 +96,7 @@
         },
         {
           "date": "2017-08-20",
+          "referee": "FABRIZIO PASQUA",
           "team1": {
             "key": "sampdoria",
             "name": "Sampdoria",
@@ -109,6 +114,7 @@
         },
         {
           "date": "2017-08-20",
+          "referee": "ANTONIO DAMATO",
           "team1": {
             "key": "sassuolo",
             "name": "Sassuolo",
@@ -126,6 +132,7 @@
         },
         {
           "date": "2017-08-20",
+          "referee": "CLAUDIO GAVILLUCCI",
           "team1": {
             "key": "udinese",
             "name": "Udinese",
@@ -143,6 +150,7 @@
         },
         {
           "date": "2017-08-20",
+          "referee": "PIERO GIACOMELLI",
           "team1": {
             "key": "atalanta",
             "name": "Atalanta",
@@ -160,6 +168,7 @@
         },
         {
           "date": "2017-08-21",
+          "referee": "MAURIZIO MARIANI",
           "team1": {
             "key": "crotone",
             "name": "Crotone",
