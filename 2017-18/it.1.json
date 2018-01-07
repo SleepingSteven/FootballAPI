@@ -5960,5 +5960,127 @@
         }
       ]
     }
+  ],
+  "marcatori": [
+    {
+      "name":"Immobile",
+      "gol": 20,
+      "place": 1,
+      "team": "Lazio"
+    },
+    {
+      "name":"Icardi",
+      "gol": 18,
+      "place": 2,
+      "team": "Inter"
+    },
+    {
+      "name":"Dybala",
+      "place": 3,
+      "gol": 14,
+      "team": "Juventus"
+    },
+    {
+      "name":"Quagliarella",
+      "place": 4,
+      "gol": 12,
+      "team": "Sampdoria"
+    },
+    {
+      "name":"Mertens",
+      "place": 5,
+      "gol": 10,
+      "team": "Napoli"
+    },
+    {
+      "name":"Dzeko",
+      "place": 6,
+      "gol": 9,
+      "team": "Roma"
+    },
+    {
+      "name":"Higuain",
+      "place": 6,
+      "gol": 9,
+      "team": "Juventus"
+    },
+    {
+      "name":"Iago Falque",
+      "place": 8,
+      "gol": 8,
+      "team": "Torino"
+    },
+    {
+      "name":"Ilicic",
+      "place": 9,
+      "gol": 7,
+      "team": "Atalanta"
+    },
+    {
+      "name":"Inglese",
+      "place": 9,
+      "gol": 7,
+      "team": "Chievo"
+    },
+    {
+      "name":"Lasagna",
+      "place": 9,
+      "gol": 7,
+      "team": "Udinese"
+    },
+    {
+      "name":"Perisic",
+      "place": 9,
+      "gol": 7,
+      "team": "Inter"
+    },
+    {
+      "name":"Anteucci",
+      "place": 14,
+      "gol": 6,
+      "team": "SPAL"
+    },
+    {
+      "name":"Barak",
+      "place": 14,
+      "gol": 6,
+      "team": "Udinese"
+    },
+    {
+      "name":"Callejon",
+      "place": 14,
+      "gol": 6,
+      "team": "Napoli"
+    },
+    {
+      "name":"Cristante",
+      "place": 14,
+      "gol": 6,
+      "team": "Atalanta"
+    },
+    {
+      "name":"Luis Alberto",
+      "place": 14,
+      "gol": 6,
+      "team": "Lazio"
+    },
+    {
+      "name":"Thereau",
+      "place": 14,
+      "gol": 6,
+      "team": "Fiorentina"
+    },
+    {
+      "name":"Verdi",
+      "place": 14,
+      "gol": 6,
+      "team": "Bologna"
+    },
+    {
+      "name":"Zapata",
+      "place": 14,
+      "gol": 6,
+      "team": "Sampdoria"
+    }
   ]
 }
