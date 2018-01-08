@@ -5,6 +5,7 @@
     {
       "key": "AC Milan",
       "founded": "(Fondazione: 16/dic/1899)",
+      "owner": "Li Yonghong",
       "name": "Milan",
       "code": "MIL",
       "place": 11,
@@ -27,6 +28,7 @@
     {
       "key": "FC Internazionale",
       "founded": "(Fondazione: 09/mar/1908)",
+      "owner": "Erick Thohir",
       "name": "Inter",
       "code": "INT",
       "place": 3,
@@ -44,12 +46,13 @@
          {
             "name": "Mauro Icardi",
             "number": 9,
-            "goal": 17
+            "goal": 18
          }
     },
     {
       "key": "SS Lazio",
       "founded": "(Fondazione: 09/gen/1900)",
+      "owner": "Claudio Lotito",
       "name": "Lazio",
       "code": "LAZ",
       "place": 4,
@@ -67,12 +70,13 @@
          {
             "name": "Ciro Immobile",
             "number": 17,
-            "goal": 16
+            "goal": 20
          } 
     },
     {
       "key": "AS Roma",
       "founded": "(Fondazione: 07/giu/1927)",
+      "owner":"James Pallotta",
       "name": "Roma",
       "code": "ROM",
       "place": 5,
@@ -90,11 +94,12 @@
          {
             "name": "Edin Dzeko",
             "number": 9,
-            "goal": 8
+            "goal": 9
          } 
     },
     {
       "key": "Genoa CFC",
+      "owner":"Enrico Preziosi",
       "founded": "(Fondazione: 07/set/1893)",
       "name": "Genoa",
       "code": "GEN",
@@ -111,13 +116,14 @@
       "stadium": "Luigi Ferraris (Genova)",
       "player": 
          {
-            "name": "Adel Taarabt",
-            "number": 11,
-            "goal": 2
+            "name": "Andrej Galabinov",
+            "number": 16,
+            "goal": 3
          } 
     },
     {
       "key": "UC Sampdoria",
+      "owner":"Massimo Ferrero",
       "founded": "(Fondazione: 01/ago/1946)",
       "name": "Sampdoria",
       "code": "SAM",
@@ -141,6 +147,7 @@
     },
     {
       "key": "Juventus FC",
+      "owner":"Andrea Agnelli",
       "founded": "(Fondazione: 01/nov/1897)",
       "name": "Juventus",
       "code": "JUV",
@@ -164,6 +171,7 @@
     },
     {
       "key": "Torino FC",
+      "owner":"Urbano Cairo",
       "founded": "(Fondazione: 03/dic/1906)",
       "name": "Torino",
       "code": "TOR",
@@ -182,11 +190,12 @@
          {
             "name": "Iago Falque",
             "number": 14,
-            "goal": 7
+            "goal": 8
          } 
     },
     {
       "key": "SSC Napoli",
+      "owner":"Aurelio De Laurentiis",
       "founded": "(Fondazione: 01/ago/1926)",
       "name": "Napoli",
       "code": "NAP",
@@ -210,6 +219,7 @@
     },
     {
       "key": "Atalanta Bergamasca Calcio",
+      "owner":"Antonio Percassi",
       "founded": "(Fondazione: 17/ott/1907)",
       "name": "Atalanta",
       "code": "ATA",
@@ -233,6 +243,7 @@
     },
     {
       "key": "AC Chievo Verona",
+      "owner": "Luca Campedelli",
       "founded": "(Fondazione: 30/nov/1928)",
       "name": "Chievo",
       "code": "CHI",
@@ -256,6 +267,7 @@
     },
     {
       "key": "ACF Fiorentina",
+      "owner":"Mario Cognigni",
       "founded": "(Fondazione: 26/ago/1926)",
       "name": "Fiorentina",
       "code": "FIO",
@@ -274,11 +286,12 @@
          {
             "name": "Giovanni Simeone",
             "number": 9,
-            "goal": 6
+            "goal": 7
          } 
     },
     {
       "key": "Udinese Calcio",
+      "owner":"Franco Soldati",
       "founded": "(Fondazione: 05/lug/1896)",
       "name": "Udinese",
       "code": "UDI",
@@ -302,6 +315,7 @@
     },
     {
       "key": "US Sassuolo",
+      "owner":"Carlo Rossi",
       "founded": "(Fondazione: 17/lug/1920)",
       "name": "Sassuolo",
       "code": "SAS",
@@ -325,6 +339,7 @@
     },
     {
       "key": "Bologna FC",
+      "owner":"Joey Saputo",
       "founded": "(Fondazione: 03/ott/1909)",
       "name": "Bologna",
       "code": "BOL",
@@ -348,6 +363,7 @@
     },
     {
       "key": "Cagliari Calcio",
+    "owner":"Massimo Cellino",
       "founded": "(Fondazione: 20/ago/1920)",
       "name": "Cagliari",
       "code": "CAG",
@@ -371,6 +387,7 @@
     },
     {
       "key": "FC Crotone",
+      "owner":"Gianni Vrenna",
       "founded": "(Fondazione: 30/nov/1922)",
       "name": "Crotone",
       "code": "CRO",
@@ -394,6 +411,7 @@
     },
     {
       "key": "Hellas Verona",
+      "owner":"Maurizio Setti",
       "founded": "(Fondazione: 30/set/1903)",
       "name": "Verona",
       "code": "HEL",
@@ -417,6 +435,7 @@
     },
     {
       "key": "SPAL",
+      "owner":"Walter Mattioli",
       "founded": "(Fondazione: 30/nov/1906)",
       "name": "SPAL",
       "code": "SPA",
@@ -435,11 +454,12 @@
          {
             "name": "Mirco Anteucci",
             "number": 7,
-            "goal": 4
+            "goal": 6
          } 
     },
     {
       "key": "Benevento Calcio",
+      "owner":"Oreste Vigorito",
       "founded": "(Fondazione: 30/nov/1928)",
       "name": "Benevento",
       "code": "BEN",
@@ -456,9 +476,9 @@
       "stadium": "Ciro Vigorito (Benevento)",
       "player": 
          {
-            "name": "Amato Ciciretti",
-            "number": 10,
-            "goal": 2
+            "name": "Massimo Coda",
+            "number": 11,
+            "goal": 3
          } 
     }
   ]
